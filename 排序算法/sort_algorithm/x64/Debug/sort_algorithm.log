@@ -1,0 +1,5 @@
+﻿  algorithm.cpp
+C:\Users\29968\Desktop\学习\数据结构\排序算法\sort_algorithm\algorithm.cpp(32,2): error C2562: “BubbleSort”:“void”函数返回值
+C:\Users\29968\Desktop\学习\数据结构\排序算法\sort_algorithm\algorithm.cpp(15,6): message : 参见“BubbleSort”的声明
+  main.cpp
+  正在生成代码...
